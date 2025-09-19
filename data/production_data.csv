@@ -1,0 +1,6 @@
+"machine_id,temperature,vibration,pressure,hours_operated,failure_next_week"
+"M_01,75,3.1,2.5,500,0"
+"M_02,90,4.8,3.0,1200,1"
+"M_03,80,2.7,2.8,800,0"
+"M_04,95,5.2,3.5,1500,1"
+"M_05,85,3.6,2.9,1100,0"
