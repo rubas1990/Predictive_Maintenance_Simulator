@@ -6,7 +6,7 @@ import streamlit as st
 st.title("Análisis de Mantenimiento Predictivo")
 
 # Leer dataset
-df = pd.read_csv("/mnt/data/f383c640-b87e-44e4-82b7-f85c2ba61f53.png")  # Cambia por la ruta de tu CSV
+df = pd.read_csv("/data/production_data.csv")  # Cambia por la ruta de tu CSV
 
 # Limpiar nombres de columnas
 df.columns = df.columns.str.strip()
